@@ -1,39 +1,39 @@
 [
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 2396,
+    "stargazers_count": 2404,
     "open_issues_count": 18,
-    "forks_count": 301
+    "forks_count": 303
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 31924,
+    "stargazers_count": 31928,
     "open_issues_count": 96,
     "forks_count": 1468
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 193106,
-    "open_issues_count": 41,
-    "forks_count": 51797
+    "stargazers_count": 193185,
+    "open_issues_count": 42,
+    "forks_count": 51825
   },
   {
     "full_name": "exercism/python",
     "stargazers_count": 1004,
     "open_issues_count": 55,
-    "forks_count": 755
+    "forks_count": 757
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2607,
-    "open_issues_count": 95,
-    "forks_count": 173
+    "stargazers_count": 2608,
+    "open_issues_count": 99,
+    "forks_count": 174
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 5292,
-    "open_issues_count": 9,
-    "forks_count": 3944
+    "stargazers_count": 5305,
+    "open_issues_count": 11,
+    "forks_count": 3962
   },
   {
     "full_name": "Vishal-raj-1/Awesome-JavaScript-Projects",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 330976,
-    "open_issues_count": 155,
-    "forks_count": 26617
+    "stargazers_count": 331291,
+    "open_issues_count": 154,
+    "forks_count": 26651
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 51509,
+    "stargazers_count": 51520,
     "open_issues_count": 13,
-    "forks_count": 11727
+    "forks_count": 11730
   },
   {
     "full_name": "iampavangandhi/iampavangandhi",
@@ -62,30 +62,30 @@
   {
     "full_name": "pwa-builder/PWABuilder",
     "stargazers_count": 804,
-    "open_issues_count": 26,
+    "open_issues_count": 28,
     "forks_count": 116
   },
   {
     "full_name": "aaugustin/websockets",
     "stargazers_count": 3571,
-    "open_issues_count": 21,
-    "forks_count": 388
+    "open_issues_count": 22,
+    "forks_count": 389
   },
   {
     "full_name": "googlecodelabs/tools",
-    "stargazers_count": 2733,
-    "open_issues_count": 131,
-    "forks_count": 831
+    "stargazers_count": 2740,
+    "open_issues_count": 133,
+    "forks_count": 832
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 14620,
+    "stargazers_count": 14631,
     "open_issues_count": 160,
-    "forks_count": 987
+    "forks_count": 988
   },
   {
     "full_name": "GoogleChromeLabs/dark-mode-toggle",
-    "stargazers_count": 697,
+    "stargazers_count": 699,
     "open_issues_count": 0,
     "forks_count": 41
   },
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "antonkomarev/github-profile-views-counter",
-    "stargazers_count": 1237,
+    "stargazers_count": 1240,
     "open_issues_count": 0,
-    "forks_count": 105
+    "forks_count": 106
   },
   {
     "full_name": "btholt/complete-intro-to-react-v6",
-    "stargazers_count": 879,
+    "stargazers_count": 891,
     "open_issues_count": 17,
     "forks_count": 126
   },
   {
     "full_name": "pamoroso/free-python-books",
-    "stargazers_count": 2771,
+    "stargazers_count": 2772,
     "open_issues_count": 0,
     "forks_count": 323
   },
   {
     "full_name": "emmabostian/developer-portfolios",
-    "stargazers_count": 2686,
+    "stargazers_count": 2690,
     "open_issues_count": 2,
-    "forks_count": 623
+    "forks_count": 622
   },
   {
     "full_name": "bradgarropy/bradgarropy.com",
@@ -139,7 +139,7 @@
   },
   {
     "full_name": "pavlobu/deskreen",
-    "stargazers_count": 11597,
+    "stargazers_count": 11603,
     "open_issues_count": 46,
     "forks_count": 569
   },
@@ -151,20 +151,20 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 5173,
-    "open_issues_count": 195,
-    "forks_count": 9821
+    "stargazers_count": 5176,
+    "open_issues_count": 196,
+    "forks_count": 9824
   },
   {
     "full_name": "enkidevs/curriculum",
-    "stargazers_count": 673,
-    "open_issues_count": 70,
-    "forks_count": 431
+    "stargazers_count": 674,
+    "open_issues_count": 67,
+    "forks_count": 433
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 118327,
-    "open_issues_count": 42,
-    "forks_count": 31647
+    "stargazers_count": 118388,
+    "open_issues_count": 38,
+    "forks_count": 31651
   }
 ]
