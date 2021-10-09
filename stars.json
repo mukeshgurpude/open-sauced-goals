@@ -7,8 +7,8 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 4084,
-    "open_issues_count": 8,
+    "stargazers_count": 4089,
+    "open_issues_count": 7,
     "forks_count": 312
   },
   {
@@ -19,33 +19,33 @@
   },
   {
     "full_name": "jcv8000/Codex",
-    "stargazers_count": 72,
+    "stargazers_count": 74,
     "open_issues_count": 2,
     "forks_count": 7
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 2496,
-    "open_issues_count": 17,
-    "forks_count": 316
+    "stargazers_count": 2505,
+    "open_issues_count": 19,
+    "forks_count": 313
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 32139,
+    "stargazers_count": 32147,
     "open_issues_count": 96,
-    "forks_count": 1481
+    "forks_count": 1482
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 194395,
+    "stargazers_count": 194451,
     "open_issues_count": 42,
-    "forks_count": 52265
+    "forks_count": 52288
   },
   {
     "full_name": "exercism/python",
-    "stargazers_count": 1016,
+    "stargazers_count": 1018,
     "open_issues_count": 55,
-    "forks_count": 765
+    "forks_count": 766
   },
   {
     "full_name": "tschaub/gh-pages",
@@ -55,9 +55,9 @@
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 5816,
-    "open_issues_count": 11,
-    "forks_count": 4181
+    "stargazers_count": 5841,
+    "open_issues_count": 6,
+    "forks_count": 4196
   },
   {
     "full_name": "Vishal-raj-1/Awesome-JavaScript-Projects",
@@ -67,15 +67,15 @@
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 333391,
-    "open_issues_count": 140,
-    "forks_count": 26948
+    "stargazers_count": 333423,
+    "open_issues_count": 153,
+    "forks_count": 26966
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 51671,
+    "stargazers_count": 51683,
     "open_issues_count": 13,
-    "forks_count": 11737
+    "forks_count": 11740
   },
   {
     "full_name": "iampavangandhi/iampavangandhi",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "pwa-builder/PWABuilder",
-    "stargazers_count": 817,
-    "open_issues_count": 20,
-    "forks_count": 117
+    "stargazers_count": 819,
+    "open_issues_count": 23,
+    "forks_count": 116
   },
   {
     "full_name": "aaugustin/websockets",
-    "stargazers_count": 3593,
-    "open_issues_count": 22,
-    "forks_count": 391
+    "stargazers_count": 3596,
+    "open_issues_count": 23,
+    "forks_count": 392
   },
   {
     "full_name": "googlecodelabs/tools",
-    "stargazers_count": 2769,
-    "open_issues_count": 134,
-    "forks_count": 842
+    "stargazers_count": 2775,
+    "open_issues_count": 135,
+    "forks_count": 843
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 14748,
+    "stargazers_count": 14753,
     "open_issues_count": 162,
     "forks_count": 994
   },
   {
     "full_name": "GoogleChromeLabs/dark-mode-toggle",
-    "stargazers_count": 708,
+    "stargazers_count": 709,
     "open_issues_count": 0,
-    "forks_count": 41
+    "forks_count": 42
   },
   {
     "full_name": "imfl/color-console",
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "antonkomarev/github-profile-views-counter",
-    "stargazers_count": 1270,
+    "stargazers_count": 1272,
     "open_issues_count": 0,
-    "forks_count": 114
+    "forks_count": 115
   },
   {
     "full_name": "btholt/complete-intro-to-react-v6",
     "stargazers_count": 955,
     "open_issues_count": 19,
-    "forks_count": 133
+    "forks_count": 136
   },
   {
     "full_name": "pamoroso/free-python-books",
-    "stargazers_count": 2837,
+    "stargazers_count": 2839,
     "open_issues_count": 1,
-    "forks_count": 334
+    "forks_count": 336
   },
   {
     "full_name": "emmabostian/developer-portfolios",
-    "stargazers_count": 2727,
+    "stargazers_count": 2730,
     "open_issues_count": 3,
     "forks_count": 631
   },
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "pavlobu/deskreen",
-    "stargazers_count": 11690,
+    "stargazers_count": 11697,
     "open_issues_count": 47,
     "forks_count": 575
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "kallaway/100-days-of-code",
-    "stargazers_count": 5197,
+    "stargazers_count": 5198,
     "open_issues_count": 195,
-    "forks_count": 9853
+    "forks_count": 9856
   }
 ]
