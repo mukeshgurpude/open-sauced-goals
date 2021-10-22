@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "GoogleCloudPlatform/django-demo-app-unicodex",
+    "stargazers_count": 72,
+    "open_issues_count": 0,
+    "forks_count": 20
+  },
+  {
     "full_name": "primer/octicons",
     "stargazers_count": 6973,
-    "open_issues_count": 9,
-    "forks_count": 711
+    "open_issues_count": 10,
+    "forks_count": 710
   },
   {
     "full_name": "googleapis/python-pubsub",
     "stargazers_count": 147,
     "open_issues_count": 15,
-    "forks_count": 106
+    "forks_count": 107
   },
   {
     "full_name": "HackYourFuture/curriculum",
@@ -25,9 +31,9 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 4177,
-    "open_issues_count": 8,
-    "forks_count": 325
+    "stargazers_count": 4195,
+    "open_issues_count": 7,
+    "forks_count": 331
   },
   {
     "full_name": "SathishGajendran/Board",
@@ -37,97 +43,97 @@
   },
   {
     "full_name": "jcv8000/Codex",
-    "stargazers_count": 81,
+    "stargazers_count": 82,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 2647,
-    "open_issues_count": 20,
-    "forks_count": 353
+    "stargazers_count": 2683,
+    "open_issues_count": 23,
+    "forks_count": 359
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 32278,
+    "stargazers_count": 32325,
     "open_issues_count": 98,
-    "forks_count": 1498
+    "forks_count": 1505
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 194958,
+    "stargazers_count": 195207,
     "open_issues_count": 42,
-    "forks_count": 52465
+    "forks_count": 52530
   },
   {
     "full_name": "exercism/python",
-    "stargazers_count": 1023,
-    "open_issues_count": 62,
+    "stargazers_count": 1024,
+    "open_issues_count": 60,
     "forks_count": 770
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2631,
+    "stargazers_count": 2633,
     "open_issues_count": 99,
     "forks_count": 173
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 6037,
-    "open_issues_count": 12,
-    "forks_count": 4348
+    "stargazers_count": 6090,
+    "open_issues_count": 10,
+    "forks_count": 4377
   },
   {
     "full_name": "Vishal-raj-1/Awesome-JavaScript-Projects",
-    "stargazers_count": 647,
+    "stargazers_count": 658,
     "open_issues_count": 44,
-    "forks_count": 492
+    "forks_count": 494
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 333978,
+    "stargazers_count": 334079,
     "open_issues_count": 151,
-    "forks_count": 27107
+    "forks_count": 27114
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 51725,
+    "stargazers_count": 51730,
     "open_issues_count": 14,
-    "forks_count": 11752
+    "forks_count": 11754
   },
   {
     "full_name": "iampavangandhi/iampavangandhi",
     "stargazers_count": 131,
     "open_issues_count": 1,
-    "forks_count": 128
+    "forks_count": 126
   },
   {
     "full_name": "pwa-builder/PWABuilder",
-    "stargazers_count": 831,
-    "open_issues_count": 19,
+    "stargazers_count": 834,
+    "open_issues_count": 22,
     "forks_count": 117
   },
   {
     "full_name": "aaugustin/websockets",
-    "stargazers_count": 3620,
-    "open_issues_count": 27,
+    "stargazers_count": 3628,
+    "open_issues_count": 28,
     "forks_count": 394
   },
   {
     "full_name": "googlecodelabs/tools",
-    "stargazers_count": 2794,
-    "open_issues_count": 138,
-    "forks_count": 852
+    "stargazers_count": 2797,
+    "open_issues_count": 140,
+    "forks_count": 854
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 14885,
-    "open_issues_count": 163,
-    "forks_count": 1002
+    "stargazers_count": 14906,
+    "open_issues_count": 170,
+    "forks_count": 1004
   },
   {
     "full_name": "GoogleChromeLabs/dark-mode-toggle",
-    "stargazers_count": 713,
+    "stargazers_count": 715,
     "open_issues_count": 0,
     "forks_count": 42
   },
@@ -139,27 +145,27 @@
   },
   {
     "full_name": "antonkomarev/github-profile-views-counter",
-    "stargazers_count": 1291,
+    "stargazers_count": 1298,
     "open_issues_count": 2,
-    "forks_count": 120
+    "forks_count": 121
   },
   {
     "full_name": "btholt/complete-intro-to-react-v6",
-    "stargazers_count": 999,
+    "stargazers_count": 1012,
     "open_issues_count": 20,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "pamoroso/free-python-books",
-    "stargazers_count": 2867,
+    "stargazers_count": 2873,
     "open_issues_count": 1,
     "forks_count": 340
   },
   {
     "full_name": "emmabostian/developer-portfolios",
-    "stargazers_count": 2753,
+    "stargazers_count": 2755,
     "open_issues_count": 3,
-    "forks_count": 631
+    "forks_count": 632
   },
   {
     "full_name": "bradgarropy/bradgarropy.com",
@@ -170,12 +176,6 @@
   {
     "full_name": "rexdivakar/smtp_validator",
     "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "borntofrappe/FreeCodeCamp-Choropleth-Map",
-    "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
   }
