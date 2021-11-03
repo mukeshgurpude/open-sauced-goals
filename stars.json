@@ -1,21 +1,21 @@
 [
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 1702,
+    "stargazers_count": 1708,
     "open_issues_count": 13,
     "forks_count": 53
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 20365,
+    "stargazers_count": 20367,
     "open_issues_count": 121,
-    "forks_count": 1208
+    "forks_count": 1209
   },
   {
     "full_name": "Chocobozzz/PeerTube",
-    "stargazers_count": 9818,
-    "open_issues_count": 402,
-    "forks_count": 1055
+    "stargazers_count": 9824,
+    "open_issues_count": 403,
+    "forks_count": 1056
   },
   {
     "full_name": "koladev32/node-express-jwt-tutorial",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "GoogleCloudPlatform/training-data-analyst",
-    "stargazers_count": 5497,
+    "stargazers_count": 5498,
     "open_issues_count": 182,
-    "forks_count": 4366
+    "forks_count": 4367
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 9304,
+    "stargazers_count": 9315,
     "open_issues_count": 295,
-    "forks_count": 1584
+    "forks_count": 1586
   },
   {
     "full_name": "GoogleCloudPlatform/django-demo-app-unicodex",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "googleapis/python-pubsub",
-    "stargazers_count": 149,
+    "stargazers_count": 150,
     "open_issues_count": 15,
     "forks_count": 109
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 4278,
+    "stargazers_count": 4292,
     "open_issues_count": 17,
     "forks_count": 342
   },
@@ -97,86 +97,86 @@
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 2819,
-    "open_issues_count": 26,
-    "forks_count": 378
+    "stargazers_count": 2838,
+    "open_issues_count": 28,
+    "forks_count": 382
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 32437,
+    "stargazers_count": 32451,
     "open_issues_count": 101,
-    "forks_count": 1512
+    "forks_count": 1515
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 196378,
+    "stargazers_count": 196429,
     "open_issues_count": 44,
-    "forks_count": 52819
+    "forks_count": 52846
   },
   {
     "full_name": "exercism/python",
     "stargazers_count": 1048,
-    "open_issues_count": 57,
+    "open_issues_count": 60,
     "forks_count": 774
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2639,
+    "stargazers_count": 2641,
     "open_issues_count": 99,
     "forks_count": 173
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 6272,
-    "open_issues_count": 6,
-    "forks_count": 4510
+    "stargazers_count": 6290,
+    "open_issues_count": 12,
+    "forks_count": 4515
   },
   {
     "full_name": "Vishal-raj-1/Awesome-JavaScript-Projects",
-    "stargazers_count": 694,
+    "stargazers_count": 696,
     "open_issues_count": 44,
-    "forks_count": 506
+    "forks_count": 507
   },
   {
     "full_name": "freeCodeCamp/freeCodeCamp",
-    "stargazers_count": 334491,
-    "open_issues_count": 135,
-    "forks_count": 27222
+    "stargazers_count": 334538,
+    "open_issues_count": 132,
+    "forks_count": 27223
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 51800,
-    "open_issues_count": 19,
-    "forks_count": 11767
+    "stargazers_count": 51801,
+    "open_issues_count": 15,
+    "forks_count": 11768
   },
   {
     "full_name": "iampavangandhi/iampavangandhi",
-    "stargazers_count": 131,
+    "stargazers_count": 132,
     "open_issues_count": 1,
     "forks_count": 129
   },
   {
     "full_name": "pwa-builder/PWABuilder",
-    "stargazers_count": 892,
-    "open_issues_count": 30,
-    "forks_count": 119
+    "stargazers_count": 894,
+    "open_issues_count": 33,
+    "forks_count": 120
   },
   {
     "full_name": "aaugustin/websockets",
-    "stargazers_count": 3649,
+    "stargazers_count": 3651,
     "open_issues_count": 25,
-    "forks_count": 397
+    "forks_count": 396
   },
   {
     "full_name": "googlecodelabs/tools",
-    "stargazers_count": 2816,
+    "stargazers_count": 2818,
     "open_issues_count": 140,
-    "forks_count": 862
+    "forks_count": 863
   },
   {
     "full_name": "GoogleChromeLabs/squoosh",
-    "stargazers_count": 14988,
+    "stargazers_count": 14997,
     "open_issues_count": 175,
-    "forks_count": 1011
+    "forks_count": 1012
   }
 ]
