@@ -1,8 +1,8 @@
 [
   {
     "full_name": "internetarchive/openlibrary",
-    "stargazers_count": 3521,
-    "open_issues_count": 742,
+    "stargazers_count": 3525,
+    "open_issues_count": 745,
     "forks_count": 833
   },
   {
@@ -13,25 +13,25 @@
   },
   {
     "full_name": "shlomif/fortune-mod",
-    "stargazers_count": 228,
-    "open_issues_count": 1,
-    "forks_count": 34
+    "stargazers_count": 232,
+    "open_issues_count": 0,
+    "forks_count": 33
   },
   {
     "full_name": "pmndrs/zustand",
-    "stargazers_count": 16465,
-    "open_issues_count": 20,
-    "forks_count": 470
+    "stargazers_count": 16549,
+    "open_issues_count": 19,
+    "forks_count": 472
   },
   {
     "full_name": "mdx-js/mdx",
-    "stargazers_count": 12993,
+    "stargazers_count": 13009,
     "open_issues_count": 13,
-    "forks_count": 1102
+    "forks_count": 1101
   },
   {
     "full_name": "atapas/webapis-playground",
-    "stargazers_count": 194,
+    "stargazers_count": 195,
     "open_issues_count": 22,
     "forks_count": 42
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "gerardog/gsudo",
-    "stargazers_count": 2363,
+    "stargazers_count": 2370,
     "open_issues_count": 6,
     "forks_count": 71
   },
   {
     "full_name": "google/python-fire",
-    "stargazers_count": 22307,
+    "stargazers_count": 22325,
     "open_issues_count": 122,
     "forks_count": 1300
   },
   {
     "full_name": "Chocobozzz/PeerTube",
-    "stargazers_count": 10605,
-    "open_issues_count": 380,
-    "forks_count": 1191
+    "stargazers_count": 10624,
+    "open_issues_count": 376,
+    "forks_count": 1194
   },
   {
     "full_name": "koladev32/node-express-jwt-tutorial",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "mrouhi13/djecrety",
-    "stargazers_count": 74,
+    "stargazers_count": 75,
     "open_issues_count": 0,
     "forks_count": 5
   },
@@ -85,39 +85,39 @@
   },
   {
     "full_name": "GoogleCloudPlatform/training-data-analyst",
-    "stargazers_count": 6012,
-    "open_issues_count": 220,
-    "forks_count": 4831
+    "stargazers_count": 6020,
+    "open_issues_count": 222,
+    "forks_count": 4837
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 12204,
-    "open_issues_count": 347,
-    "forks_count": 2103
+    "stargazers_count": 12265,
+    "open_issues_count": 345,
+    "forks_count": 2113
   },
   {
     "full_name": "GoogleCloudPlatform/django-demo-app-unicodex",
-    "stargazers_count": 76,
+    "stargazers_count": 77,
     "open_issues_count": 1,
     "forks_count": 22
   },
   {
     "full_name": "primer/octicons",
-    "stargazers_count": 7258,
-    "open_issues_count": 24,
-    "forks_count": 798
+    "stargazers_count": 7263,
+    "open_issues_count": 25,
+    "forks_count": 799
   },
   {
     "full_name": "googleapis/python-pubsub",
     "stargazers_count": 196,
-    "open_issues_count": 27,
-    "forks_count": 129
+    "open_issues_count": 28,
+    "forks_count": 132
   },
   {
     "full_name": "HackYourFuture/curriculum",
     "stargazers_count": 547,
     "open_issues_count": 0,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "hackclubiter/hacktheoctober",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "lowlighter/metrics",
-    "stargazers_count": 6416,
-    "open_issues_count": 6,
-    "forks_count": 650
+    "stargazers_count": 6451,
+    "open_issues_count": 10,
+    "forks_count": 660
   },
   {
     "full_name": "SathishGajendran/Board",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "jcv8000/Codex",
-    "stargazers_count": 172,
-    "open_issues_count": 7,
+    "stargazers_count": 174,
+    "open_issues_count": 9,
     "forks_count": 18
   },
   {
     "full_name": "JanDeDobbeleer/oh-my-posh",
-    "stargazers_count": 5630,
-    "open_issues_count": 20,
-    "forks_count": 959
+    "stargazers_count": 5740,
+    "open_issues_count": 23,
+    "forks_count": 972
   },
   {
     "full_name": "FiloSottile/mkcert",
-    "stargazers_count": 34891,
-    "open_issues_count": 83,
-    "forks_count": 1689
+    "stargazers_count": 34974,
+    "open_issues_count": 84,
+    "forks_count": 1692
   },
   {
     "full_name": "jwasham/coding-interview-university",
-    "stargazers_count": 218322,
+    "stargazers_count": 218940,
     "open_issues_count": 47,
-    "forks_count": 59200
+    "forks_count": 59329
   },
   {
     "full_name": "exercism/python",
-    "stargazers_count": 1175,
-    "open_issues_count": 58,
+    "stargazers_count": 1177,
+    "open_issues_count": 59,
     "forks_count": 902
   },
   {
     "full_name": "tschaub/gh-pages",
-    "stargazers_count": 2789,
-    "open_issues_count": 110,
+    "stargazers_count": 2790,
+    "open_issues_count": 111,
     "forks_count": 179
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 13897,
-    "open_issues_count": 15,
-    "forks_count": 7575
+    "stargazers_count": 14020,
+    "open_issues_count": 13,
+    "forks_count": 7618
   }
 ]
